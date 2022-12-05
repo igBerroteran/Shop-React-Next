@@ -1,1 +1,5 @@
 npm i eslint-config-prettier eslint-plugin-jsx-a11y eslint-plugin-prettier prettier -D
+
+npm i @heroicons/react @headlessui/react
+
+npm i js-cookie axios
